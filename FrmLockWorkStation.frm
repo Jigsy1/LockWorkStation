@@ -5,7 +5,6 @@ Begin VB.Form FrmLockWorkStation
    ClientLeft      =   0
    ClientTop       =   0
    ClientWidth     =   90
-   Icon            =   "FrmLockWorkStation.frx":0000
    LinkTopic       =   "Form1"
    ScaleHeight     =   90
    ScaleWidth      =   90
